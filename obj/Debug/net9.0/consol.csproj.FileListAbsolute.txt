@@ -1,0 +1,14 @@
+C:\Users\Hamed\Documents\newEf\consol\bin\Debug\net9.0\consol.exe
+C:\Users\Hamed\Documents\newEf\consol\bin\Debug\net9.0\consol.deps.json
+C:\Users\Hamed\Documents\newEf\consol\bin\Debug\net9.0\consol.runtimeconfig.json
+C:\Users\Hamed\Documents\newEf\consol\bin\Debug\net9.0\consol.dll
+C:\Users\Hamed\Documents\newEf\consol\bin\Debug\net9.0\consol.pdb
+C:\Users\Hamed\Documents\newEf\consol\obj\Debug\net9.0\consol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hamed\Documents\newEf\consol\obj\Debug\net9.0\consol.AssemblyInfoInputs.cache
+C:\Users\Hamed\Documents\newEf\consol\obj\Debug\net9.0\consol.AssemblyInfo.cs
+C:\Users\Hamed\Documents\newEf\consol\obj\Debug\net9.0\consol.csproj.CoreCompileInputs.cache
+C:\Users\Hamed\Documents\newEf\consol\obj\Debug\net9.0\consol.dll
+C:\Users\Hamed\Documents\newEf\consol\obj\Debug\net9.0\refint\consol.dll
+C:\Users\Hamed\Documents\newEf\consol\obj\Debug\net9.0\consol.pdb
+C:\Users\Hamed\Documents\newEf\consol\obj\Debug\net9.0\consol.genruntimeconfig.cache
+C:\Users\Hamed\Documents\newEf\consol\obj\Debug\net9.0\ref\consol.dll
